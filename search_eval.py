@@ -4,8 +4,8 @@ import time
 
 import metapy
 import pytoml
-import numpy as np
-import scipy.stats as stats
+# import numpy as np
+# import scipy.stats as stats
 import random
 
 random.seed(100000)
